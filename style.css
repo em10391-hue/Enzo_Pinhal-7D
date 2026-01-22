@@ -1,13 +1,13 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: plae green; /* pale green */
+    background-color: chocolate brown; /* pale green */
 }
 
 /* Style for all paragraphs */
 p {
     color: darkgreen;
     font-size: 20px;
-    font-family: 'Times New Roman', serif;
+    font-family: 'stonecraft', serif;
 }
 
 /* Style for the main heading */
